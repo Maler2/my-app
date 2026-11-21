@@ -1,0 +1,11 @@
+pkgbase = my-app
+	pkgdesc = my first app
+	pkgver = 1.0.0
+	pkgrel = 1
+	arch = x86_64
+	license = MIT
+	depends = gcc-libs
+	source = main.cpp
+	sha256sums = SKIP
+
+pkgname = my-app
